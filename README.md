@@ -30,6 +30,6 @@ Full-stack developer building AI-powered systems that solve real problems at sca
 
 ## Contact
 
-* [LinkedIn](https://www.linkedin.com/in/vaibhavmhta/)
-* [Portfolio](https://vaibhav-portfolio-lilac.vercel.app)
-* [Email](mailto:mehta16vaibhav@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mehta16vaibhav@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhavmhta/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-252F3F?style=flat-square&logo=vercel&logoColor=white)](https://vaibhav-portfolio-lilac.vercel.app)
