@@ -1,6 +1,6 @@
 # Vaibhav Mehta
 
-Full-stack developer building AI-powered systems that solve real problems at scale. Pre-final year Computer Science undergraduate at VIT Vellore. Actively seeking placements and 6-month internships (PPO track) starting 2027.
+Final-year Computer Science student at VIT Vellore building scalable, AI-powered products. Experienced in full-stack development, agentic architectures, and robust backend systems. Currently open to software engineering internships and full-time placements.
 
 ## Top Projects
 
